@@ -6,5 +6,5 @@ This is a single-page CV for Ifeoluwa Akingbade, built with HTML and styled with
 - HTML
 - CSS
 
-## 🌐 Live Site
-Project URL: https://hadi387.github.io/Frontend-CV/
+## 🌐 🔗 [Live Project URL](https://hadi387.github.io/Frontend-CV/)
+
